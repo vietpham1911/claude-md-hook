@@ -30,4 +30,4 @@ Add the following to your `settings.json`:
 Note: Replace ~/CLAUDE.md with your actual CLAUDE.md path.
 
 ### Writing Effective CLAUDE.md Files
-Prefix critical rules with ALWAYS (in capital letters) to significantly increase the probability that Claude will follow them.
+Prefix critical rules with ALWAYS (in capital letters) to significantly increase the probability that Claude will follow them. Use the CLAUDE.md file in the repository if you need some inspiration :)
