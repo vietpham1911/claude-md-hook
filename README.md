@@ -1,6 +1,6 @@
 # Claude Code: Global `CLAUDE.md` Hook
 
-Inject custom instructions into every Claude Code interaction using a **user-prompt-submit** hook.
+Inject custom instructions into every Claude Code interaction using a CLAUDE.md file and a **user-prompt-submit** hook.
 
 ## Overview
 
